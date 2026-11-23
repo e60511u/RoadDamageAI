@@ -1,0 +1,17 @@
+venv/
+.venv/
+
+dataset/
+runs/
+mes_tests/
+
+*.pt
+!models/
+!models/*.pt
+
+__pycache__/
+*.py[cod]
+*.log
+
+.vscode/
+.idea/
